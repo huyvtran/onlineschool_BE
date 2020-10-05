@@ -1,0 +1,25 @@
+<service>
+	<id>aksclinic.exe</id>
+	<name>AKS Clinic</name>
+	<description>This is a node server that runs as the windows service that keeps the server always up!</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>C:\aws-aks\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\aws-aks\src\app.js</argument>
+	<argument>--log</argument>
+	<argument>AKS Clinic wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<workingdirectory>C:\aws-aks</workingdirectory>
+</service>

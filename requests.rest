@@ -1,0 +1,4 @@
+POST http://localhost:7070/api/principal/getCurriculumByInstId
+{
+    "instId ": "01001"
+}

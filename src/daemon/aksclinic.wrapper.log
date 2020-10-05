@@ -1,0 +1,97 @@
+2019-12-05 09:43:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-05 09:43:57 - Started 23596
+2019-12-05 18:12:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-05 18:12:11 - Started 12664
+2019-12-09 18:31:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-09 18:31:54 - Started 8332
+2019-12-10 07:30:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-10 07:30:06 - Started 17324
+2019-12-11 07:57:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-11 07:57:43 - Started 17884
+2019-12-13 18:03:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-13 18:03:25 - Started 24988
+2019-12-13 18:22:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-13 18:22:27 - Started 6468
+2019-12-13 18:41:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-13 18:41:22 - Started 12552
+2019-12-13 18:45:00 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-13 18:45:00 - Started 19952
+2019-12-13 20:02:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-13 20:02:16 - Started 24492
+2019-12-14 09:39:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-14 09:39:43 - Started 19680
+2019-12-17 17:58:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-17 17:58:48 - Started 22216
+2019-12-19 16:07:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-19 16:07:28 - Started 10040
+2019-12-19 16:11:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-19 16:11:11 - Started 13912
+2019-12-21 20:19:36 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-12-21 20:19:36 - Started 17500
+2020-01-01 19:29:46 - Stopping aksclinic.exe
+2020-01-01 19:29:46 - ProcessKill 17500
+2020-01-01 19:29:47 - Found child process: 16516 Name: conhost.exe
+2020-01-01 19:29:47 - Stopping process 16516
+2020-01-01 19:29:47 - Send SIGINT 16516
+2020-01-01 19:29:47 - SIGINT to 16516 failed - Killing as fallback
+2020-01-01 19:29:47 - Stopping process 17500
+2020-01-01 19:29:47 - Send SIGINT 17500
+2020-01-01 19:29:47 - SIGINT to 17500 failed - Killing as fallback
+2020-01-01 19:29:47 - Finished aksclinic.exe
+2020-01-01 19:29:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-01-01 19:29:48 - Started 4168
+2020-01-02 19:05:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-01-02 19:05:49 - Started 24048
+2020-01-04 18:44:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-01-04 18:44:18 - Started 5840
+2020-01-07 09:21:28 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-01-07 09:21:28 - Started 19216
+2020-01-10 11:10:37 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-01-10 11:10:37 - Started 17260
+2020-02-23 08:26:30 - Stopping aksclinic.exe
+2020-02-23 08:26:30 - ProcessKill 17260
+2020-02-23 08:26:30 - Found child process: 10324 Name: conhost.exe
+2020-02-23 08:26:30 - Stopping process 10324
+2020-02-23 08:26:30 - Send SIGINT 10324
+2020-02-23 08:26:30 - SIGINT to 10324 failed - Killing as fallback
+2020-02-23 08:26:30 - Stopping process 17260
+2020-02-23 08:26:30 - Send SIGINT 17260
+2020-02-23 08:26:30 - SIGINT to 17260 failed - Killing as fallback
+2020-02-23 08:26:30 - Finished aksclinic.exe
+2020-02-23 08:26:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-02-23 08:26:31 - Started 10012
+2020-02-25 10:25:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-02-25 10:25:41 - Started 19960
+2020-03-02 09:23:09 - Stopping aksclinic.exe
+2020-03-02 09:23:09 - ProcessKill 19960
+2020-03-02 09:23:09 - Found child process: 13800 Name: conhost.exe
+2020-03-02 09:23:09 - Found child process: 7148 Name: node.exe
+2020-03-02 09:23:09 - Stopping process 13800
+2020-03-02 09:23:09 - Send SIGINT 13800
+2020-03-02 09:23:09 - SIGINT to 13800 failed - Killing as fallback
+2020-03-02 09:23:09 - Stopping process 7148
+2020-03-02 09:23:09 - Send SIGINT 7148
+2020-03-02 09:23:09 - SIGINT to 7148 failed - Killing as fallback
+2020-03-02 09:23:09 - Stopping process 19960
+2020-03-02 09:23:09 - Send SIGINT 19960
+2020-03-02 09:23:09 - SIGINT to 19960 failed - Killing as fallback
+2020-03-02 09:23:09 - Finished aksclinic.exe
+2020-03-02 09:23:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-03-02 09:23:11 - Started 20496
+2020-03-02 09:31:33 - Stopping aksclinic.exe
+2020-03-02 09:31:33 - ProcessKill 20496
+2020-03-02 09:31:33 - Found child process: 6936 Name: conhost.exe
+2020-03-02 09:31:33 - Found child process: 24344 Name: node.exe
+2020-03-02 09:31:33 - Stopping process 6936
+2020-03-02 09:31:33 - Send SIGINT 6936
+2020-03-02 09:31:33 - SIGINT to 6936 failed - Killing as fallback
+2020-03-02 09:31:33 - Stopping process 24344
+2020-03-02 09:31:33 - Send SIGINT 24344
+2020-03-02 09:31:33 - SIGINT to 24344 failed - Killing as fallback
+2020-03-02 09:31:33 - Stopping process 20496
+2020-03-02 09:31:33 - Send SIGINT 20496
+2020-03-02 09:31:33 - SIGINT to 20496 failed - Killing as fallback
+2020-03-02 09:31:33 - Finished aksclinic.exe
+2020-03-02 09:31:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-03-02 09:31:34 - Started 8912
+2020-03-09 09:49:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\aws-aks\node_modules\node-windows\lib\wrapper.js --file C:\aws-aks\src\app.js --log "AKS Clinic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined

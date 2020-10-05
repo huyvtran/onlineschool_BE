@@ -1,0 +1,3 @@
+node_modules
+/src/util/database.js
+/package-lock.json
